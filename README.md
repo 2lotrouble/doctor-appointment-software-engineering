@@ -22,12 +22,13 @@
 - [Задание 1 — репозиторий и ветка](reports/Задание_1_Давлетов_АД-23.docx).
 - [Задание 2 — ревью и требования](reports/Задание_2_Давлетов_АД-23.docx).
 - [Задание 3 — версии, запрос на изменение и план спринта](reports/Задание_3_Давлетов_АД-23.docx).
+- [Задание 4 — риски и безопасность](reports/Задание_4_Давлетов_АД-23.docx).
 
 В отчётах есть история Git, скриншоты GitHub, замечания, исправленные требования и матрица связей.
 
 ## Версии
 
-Текущая версия документации 1.1.0. История версий находится в [CHANGELOG.md](CHANGELOG.md), каждая версия отмечена тегом: [v1.0.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.0.0), [v1.1.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.1.0). Запрос на изменение CR-01 и план спринта находятся в [docs/06_Запрос_на_изменение_и_спринт.md](docs/06_Запрос_на_изменение_и_спринт.md).
+Текущая версия документации 1.1.1. История версий находится в [CHANGELOG.md](CHANGELOG.md), каждая версия отмечена тегом: [v1.0.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.0.0), [v1.1.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.1.0), [v1.1.1](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.1.1). Запрос на изменение CR-01 и план спринта находятся в [docs/06_Запрос_на_изменение_и_спринт.md](docs/06_Запрос_на_изменение_и_спринт.md), риски и безопасность — в [docs/07_Риски_и_безопасность.md](docs/07_Риски_и_безопасность.md).
 
 ## Контрольные точки заданий
 
