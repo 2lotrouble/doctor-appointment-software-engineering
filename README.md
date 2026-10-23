@@ -21,10 +21,15 @@
 
 - [Задание 1 — репозиторий и ветка](reports/Задание_1_Давлетов_АД-23.docx).
 - [Задание 2 — ревью и требования](reports/Задание_2_Давлетов_АД-23.docx).
+- [Задание 3 — версии, запрос на изменение и план спринта](reports/Задание_3_Давлетов_АД-23.docx).
 
 В отчётах есть история Git, скриншоты GitHub, замечания, исправленные требования и матрица связей.
 
-## Контрольные версии
+## Версии
+
+Текущая версия документации 1.1.0. История версий находится в [CHANGELOG.md](CHANGELOG.md), каждая версия отмечена тегом: [v1.0.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.0.0), [v1.1.0](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/v1.1.0). Запрос на изменение CR-01 и план спринта находятся в [docs/06_Запрос_на_изменение_и_спринт.md](docs/06_Запрос_на_изменение_и_спринт.md).
+
+## Контрольные точки заданий
 
 - [lab1-git](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/lab1-git) — пять исходных работ, изменение README в ветке и слияние в main.
 - [lab2-review](https://github.com/2lotrouble/doctor-appointment-software-engineering/tree/lab2-review) — документы после исправлений, восемь сценариев и 18 тест-кейсов.

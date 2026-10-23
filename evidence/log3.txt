@@ -1,0 +1,18 @@
+$ git tag
+lab1-git
+lab2-review
+v1.0.0
+v1.1.0
+
+$ git log --oneline --decorate -5
+e721fe1 (HEAD -> main, origin/main, origin/HEAD) Добавлены запрос на изменение CR-01 и план первого спринта
+7680c46 (tag: v1.1.0) Список изменений оформлен по версиям 1.0.0 и 1.1.0
+20d9f26 Сокращены отчёты по заданиям 1 и 2
+6e571f7 Добавлены итоговые отчёты со скриншотами личного GitHub
+6333a0f (tag: lab2-review) Исправлено размещение участника на UML диаграмме
+
+$ git ls-remote --tags origin
+2180cc2  refs/tags/lab1-git
+6333a0f  refs/tags/lab2-review
+2180cc2  refs/tags/v1.0.0
+7680c46  refs/tags/v1.1.0
